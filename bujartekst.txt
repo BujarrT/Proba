@@ -1,2 +1,6 @@
 proba tekst 1
 proba tekst 2
+promena na tekst za branch bujar1
+tekst 4
+tekst 8
+tekst 10
